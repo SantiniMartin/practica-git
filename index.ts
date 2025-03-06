@@ -54,7 +54,7 @@ class ProductoCongelado extends ProductoAlimenticio {
 
       return true;
     }
-  }
+}
   
 
 // // Creación de la instancia
